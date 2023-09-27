@@ -26,6 +26,7 @@ export class AppComponent {
     public switch: SwitchComponent;
     
     public document: string = 'https://cdn.syncfusion.com/content/pdf/pdf-succinctly.pdf';
+    public pdfiumPath: string = 'https://cdn.syncfusion.com/content/pdf/pdf-succinctly.pdf';
     ngOnInit(): void {
         // ngOnInit function
     }
