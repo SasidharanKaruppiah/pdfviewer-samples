@@ -5,7 +5,7 @@
     "projects": {
       "demo": {
         "root": "",
-        "sourceRoot": "",
+        "sourceRoot": "src",
         "projectType": "application",
         "prefix": "app",
         "schematics": {},
